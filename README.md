@@ -1,7 +1,7 @@
 # app-dev.
 My first repository.
 
-# ** My Favorite Movies**
+# ** My Favorite Anime Movies**
 1. Kimi No Nawa / Your Name
   *Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become
    even more complicated when the boy and girl decide to meet in person.*
